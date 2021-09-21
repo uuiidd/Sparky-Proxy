@@ -7,6 +7,9 @@ Brought to you by
     /_/                    /____/   
 ———————————————————————————————————————————————————————————————————————————————————————————————————
 
+
+
+
 HOW TO BYPASS HAPARA
 Go to an empty space on your bookmarks bar, right click and select add page. Make the name whatever you want and paste this in as the url:
 
