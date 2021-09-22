@@ -101,13 +101,13 @@ a,
 }
 
 .bodycontainer {
-  letter-spacing: 0.5px;
+  letter-spacing: 0.1px;
   color: var(--textcolor);
   align-items: center;
   display: flex;
   flex-direction: column;
   overflow: auto;
-  height: 70%;
+  height: 100%;
   justify-content: center;
   line-height: 0.4;
   margin: auto;
