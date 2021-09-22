@@ -1,9 +1,32 @@
-Within this file are the following legal documents in the order in which they are listed: Acceptable Use Policy (AUP), Privacy Policy, Terms of Service.
+                  ,,        ,,                          ,...                                                                        
+MMP""MM""YMM     *MM      `7MM                        .d' ""      .g8"""bgd                    mm                      mm           
+P'   MM   `7      MM        MM                        dM`       .dP'     `M                    MM                      MM           
+     MM   ,6"Yb.  MM,dMMb.  MM  .gP"Ya       ,pW"Wq. mMMmm      dM'       ` ,pW"Wq.`7MMpMMMb.mmMMmm .gP"Ya `7MMpMMMb.mmMMmm ,pP"Ybd 
+     MM  8)   MM  MM    `Mb MM ,M'   Yb     6W'   `Wb MM        MM         6W'   `Wb MM    MM  MM  ,M'   Yb  MM    MM  MM   8I   `" 
+     MM   ,pm9MM  MM     M8 MM 8M""""""     8M     M8 MM        MM.        8M     M8 MM    MM  MM  8M""""""  MM    MM  MM   `YMMMa. 
+     MM  8M   MM  MM.   ,M9 MM YM.    ,     YA.   ,A9 MM        `Mb.     ,'YA.   ,A9 MM    MM  MM  YM.    ,  MM    MM  MM   L.   I8 
+   .JMML.`Moo9^Yo.P^YbmdP'.JMML.`Mbmmd'      `Ybmd9'.JMML.        `"bmmmd'  `Ybmd9'.JMML  JMML.`Mbmo`Mbmmd'.JMML  JMML.`MbmoM9mmmP' 
+                                                                                                                                    
+                                                                                                                                    
+                                       ╔─────────────────────────────────────╗
+                                       @ 0X10 | School Info................. @
+                                       @ 0x20 | Acceptable Use Policy....... @
+                                       ╚─────────────────────────────────────╝
 
-
-Last updated: August 24, 2021
 
 ---------------------------
+--         0x10          --
+--      School Info      --
+---------------------------
+
+Dear school administrators -
+
+I have created this site for the purpose of allowing kids to play games OUTSIDE of school using their chromebooks. I think it is despicable that kids are not allowed to use their
+school computers for recreational use outside of school. This was not made to allow kids to access websites in evasion of web filters. If they do, thats on them.
+
+
+---------------------------
+--         0x20         --
 -- Acceptable Use Policy --
 ---------------------------
 
