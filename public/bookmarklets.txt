@@ -1,0 +1,18 @@
+Bookmarklets
+
+
+
+Hapara bypass
+javascript:((function(){var a,b,c;c="LINK GOES HERE",b=document.createElement("iframe"),b.setAttribute("src",c),b.setAttribute("id","rusic-modal"),b.setAttribute("style","position: fixed; width: 100%; height: 100%; top: 0; left: 0; right: 0; bottom: 0; z-index: 99999999999; background-color: #fff;"),a=document.getElementsByTagName("body")[0],a.appendChild(b)})).call(this)
+
+
+Download Youtube Video
+javascript: var regeX = /^.*(youtu.be\/|v\/|e\/|u\/\w+\/|embed\/|v=)([^#&\?]*).*/,getYTURL = location.href,video_id, match = getYTURL.match(regeX);if (match && 11 == match[2].length) {video_id = match[2];var url = "https://www.youtubnow.com/watch/?v=" + escape(video_id);(w = open(url, "w", "location=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=500,height=800,modal=yes,dependent=yes")) ? setTimeout("w.focus()", 1E3): location = url} else alert(" That's Not a Valid YouTube URL, \n Need URL like this \n http://youtube.com/watch?v=KuUYePG6ygQ ");
+
+
+Enable Right Click/Copy
+javascript: void(document.oncontextmenu = null)
+
+
+Hide Tab As Google Drive
+javascript:(function() {var link = document.querySelector("link[rel*='icon']") || document.createElement('link');link.type = 'image/x-icon';link.rel = 'shortcut icon';link.href = 'https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico';document.title = 'My Drive - Google Drive';console.log(document.title);document.getElementsByTagName('head')[0].appendChild(link);})();
