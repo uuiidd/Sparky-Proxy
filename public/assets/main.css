@@ -34,8 +34,8 @@ body {
   font-weight: 450;
 }
 
-a:link {
-  text-decoration: none;
+.underlinedlink a{
+    text-decoration:underline !important;
 }
 
 .navbar {
