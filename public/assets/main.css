@@ -62,10 +62,6 @@ body {
   color: var(--textcolor);
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
 .navbar .icon {
   display: none;
 }
