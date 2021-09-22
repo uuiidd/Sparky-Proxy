@@ -6,8 +6,8 @@ A traditional proxy site for use in combating web filters.
 ## Setup
 
 ```sh
-git clone https://github.com/titaniumnetwork-dev/Vanadium
-cd Vanadium
+git clone https://github.com/uuiidd/Sparky-Proxy
+cd Sparky-Proxy
 npm start
 ```
 
@@ -36,4 +36,4 @@ npm start
 
 ## Copyright Takedown Requests
 
-Simply create an issue on this repository and we will assist you as soon as possible. If that doesn't suit you, then send an e-mail to nullnvoid@mailfence.com and I can work with you directly.
+Simply create an issue on this repository and we will assist you as soon as possible. If that doesn't suit you, then send an e-mail to uuiid100@gmail.com and I can work with you directly.
