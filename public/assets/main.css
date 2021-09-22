@@ -101,7 +101,7 @@ a,
 }
 
 .bodycontainer {
-  letter-spacing: 0.1px;
+  letter-spacing: 0.6px;
   color: var(--textcolor);
   align-items: center;
   display: flex;
