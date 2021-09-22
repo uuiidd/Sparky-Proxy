@@ -66,6 +66,7 @@ GAME                        LINK
 BURRITO BASH                http://kekedafu.herokuapp.com/web/_aHR0cHM6Ly9lbi5nYW1lc2xvbC5uZXQ=_/data/burrito/index.html
 BASKETBALL LEGENDS          http://usjfenkask.herokuapp.com/search/hvtrs8%2F-snorewn%60lmcief.mnnile-bcsievbcln-neeeldq/
 SLOPE                       http://usjfenkask.herokuapp.com/search/hvtrs8%2F-snorewn%60lmcief.mnnile-/
+BULLET FORCE                https://server2.blayzegames.com/BulletForceWebGL/
 ——————————————————————————————————————————————————————————————
 
 
