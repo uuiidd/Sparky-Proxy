@@ -34,10 +34,6 @@ body {
   font-weight: 450;
 }
 
-.underlinedlink a{
-    text-decoration:underline !important;
-}
-
 .navbar {
   background: var(--navbg);
   border-bottom: 2px solid var(--accents);
