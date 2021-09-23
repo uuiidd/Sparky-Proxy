@@ -115,6 +115,21 @@ a,
   width: 100%;
 }
 
+.bodycontainerr {
+  letter-spacing: 0.6px;
+  color: var(--textcolor);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  height: 30%;
+  justify-content: center;
+  line-height: 0.4;
+  margin: auto;
+  text-align: center;
+  width: 100%;
+}
+
 ul {
   list-style-type: none;
 }
