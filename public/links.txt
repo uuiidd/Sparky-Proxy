@@ -65,6 +65,7 @@ TN PHOENIX                  https://moonbounce.herokuapp.com
 TN PHOENIX                  https://moonbounce2.herokuapp.com
 TN PHOENIX                  https://lekjhfkjdsnfjkleha.herokuapp.com
 HOLY UNBLOCKER              https://usjfenkask.herokuapp.com/?g
+ALTERNATE COOKIE CLICKER    https://ozh.github.io/cookieclicker/
 ——————————————————————————————————————————————————————————————
 
 
