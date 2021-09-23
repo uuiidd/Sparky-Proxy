@@ -34,6 +34,10 @@ body {
   font-weight: 450;
 }
 
+a:link {
+  text-decoration: none;
+}
+
 .navbar {
   background: var(--navbg);
   border-bottom: 2px solid var(--accents);
@@ -127,7 +131,6 @@ ul {
   text-align:center;
   margin:0 auto;
   left:-40px;
-  text-decoration:none;
 }
 
 .bar {
