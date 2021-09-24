@@ -77,7 +77,7 @@ TYPE                      LINK
 ——————————————————————————————————————————————————————————————
 ALLOY                     https://sparkyalloy.herokuapp.com/
 ALLOY                     https://kekedafu.herokuapp.com/
-SITE                      http://usjfenkask.herokuapp.com/
+SITE                      https://usjfenkask.herokuapp.com/
 WOMGINX                   https://sparkydisc.herokuapp.com/
 ——————————————————————————————————————————————————————————————
 
