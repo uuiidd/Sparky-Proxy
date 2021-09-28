@@ -70,6 +70,7 @@ TN PHOENIX                  https://lekjhfkjdsnfjkleha.herokuapp.com
 HOLY UNBLOCKER              http://sparkyholy.herokuapp.com
 HOLY UNBLOCKER              https://usjfenkask.herokuapp.com/?g
 ALTERNATE COOKIE CLICKER    https://ozh.github.io/cookieclicker/
+OSU                         https://osu-web.com/
 ——————————————————————————————————————————————————————————————
 
 
