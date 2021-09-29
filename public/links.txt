@@ -7,8 +7,11 @@ Brought to you by
     /_/                    /____/   
 ———————————————————————————————————————————————————————————————————————————————————————————————————
 
-\|/ . ANNOUNCMENTS . \|/
 
+
+
+
+\|/ . ANNOUNCMENTS . \|/
 
 9/22/2021
 TN game library has been added!
@@ -18,40 +21,33 @@ I have made a new holy unblocker:
 http://sparkyholy.herokuapp.com/search/hvtrs8%2F-snorewn%60lmcief.mnnile-bcsievbcln-neeeldq/
 
 
+
+
+\|/ . OFFICIAL SPARKY PROXY SITES . \|/
+
+TYPE                      LINK
+——————————————————————————————————————————————————————————————
+FLAGSHIP                  https://sparkyproxy.herokuapp.com/
+ALLOY                     https://sparkyalloy1.heorokuapp.com/
+WOMGINX                   https://sparkydisc.herokuapp.com/
+SITE                      https://sparkyholy.herokuapp.com/
+——————————————————————————————————————————————————————————————
+
+
+
+
 \|/ . LINKS . \|/
 
-
-HOW TO BYPASS HAPARA
-Go to an empty space on your bookmarks bar, right click and select add page. Make the name whatever you want and paste this in as the url:
-
-javascript:((function(){var a,b,c;c="https://sparkyproxy.herokuapp.com",b=document.createElement("iframe"),b.setAttribute("src",c),b.setAttribute("id","rusic-modal"),b.setAttribute("style","position: fixed; width: 100%; height: 100%; top: 0; left: 0; right: 0; bottom: 0; z-index: 99999999999; background-color: #fff;"),a=document.getElementsByTagName("body")[0],a.appendChild(b)})).call(this)
-
-Open canvas or any website and click the bookmark. It will show up as the canvas connection.
-
-
-1). YouTube
-Paste this into google and you have a working YouTube.
-https://sparkyalloy.herokuapp.com/web/_aHR0cHM6Ly93d3cueW91dHViZS5jb20=_/
+SITE                      LINK
+——————————————————————————————————————————————————————————————
+YOUTUBE                   https://sparkyalloy1.herokuapp.com/web/_aHR0cHM6Ly93d3cueW91dHViZS5jb20=_/
+DISCORD                   http://sparkyholy.herokuapp.com/search/hvtrs8%2F-dksaopd%2Ccmm-lmgkn/ 
+REDDIT                    https://sparkyalloy.herokuapp.com/web/_aHR0cHM6Ly93d3cucmVkZGl0LmNvbQ==_/
+TEMP MAIL                 https://temp-mail.org/en/
+COOKIE CLICKER            https://ozh.github.io/cookieclicker/
+——————————————————————————————————————————————————————————————
 
 
-2). Discord | Broken
-Working discord link
-http://sparkyholy.herokuapp.com/search/hvtrs8%2F-dksaopd%2Ccmm-lmgkn/ 
-
-
-3). Temp Mail
-If you need to sign up for Heroku or something use this
-https://temp-mail.org/en/
-
-
-4). Cookie Clicker (NEWEST)
-The newest version of Cookie Clicker. (Autosave Support Enabled)
-https://ozh.github.io/cookieclicker/
-
-
-5). Reddit | WORKING NOW
-Unblocked Reddit.
-https://sparkyalloy.herokuapp.com/web/_aHR0cHM6Ly93d3cucmVkZGl0LmNvbQ==_/
 
 
 \|/ . GAMES . \|/
@@ -74,19 +70,6 @@ OSU                         https://osu-web.com/
 FLIGHT SIMULATOR            https://sparkyalloy1.herokuapp.com/web/_aHR0cHM6Ly9iZXRhLmdlby1mcy5jb20=_/geofs.php
 ——————————————————————————————————————————————————————————————
 
-
-
-
-\|/ . PROXIES . \|/
-
-TYPE                      LINK
-——————————————————————————————————————————————————————————————
-ALLOY                     https://sparkyalloy.herokuapp.com/
-ALLOY                     https://kekedafu.herokuapp.com/
-SITE                      https://sparkyholy.herokuapp.com/
-SITE                      https://usjfenkask.herokuapp.com/
-WOMGINX                   https://sparkydisc.herokuapp.com/
-——————————————————————————————————————————————————————————————
 
 
 
