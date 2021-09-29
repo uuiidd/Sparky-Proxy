@@ -68,6 +68,15 @@ HOLY UNBLOCKER              https://usjfenkask.herokuapp.com/?g
 ALTERNATE COOKIE CLICKER    https://ozh.github.io/cookieclicker/
 OSU                         https://osu-web.com/
 FLIGHT SIMULATOR            https://sparkyalloy1.herokuapp.com/web/_aHR0cHM6Ly9iZXRhLmdlby1mcy5jb20=_/geofs.php
+
+....................................................................................................................................................................
+
+SONIC 1                     https://sparkyalloy1.herokuapp.com/web/_aHR0cHM6Ly9wbGF5Y2xhc3NpYy5nYW1lcw==_/games/jump-and-run-genesis-games-online/play-sonic-the-hedgehog-online/play/
+SUPER MARIO WORLD           https://sparkyalloy1.herokuapp.com/web/_aHR0cHM6Ly9wbGF5Y2xhc3NpYy5nYW1lcw==_/games/jump-and-run-snes-games-online/play-super-mario-world-online/play/
+ZELDA                       https://sparkyalloy1.herokuapp.com/web/_aHR0cHM6Ly9wbGF5Y2xhc3NpYy5nYW1lcw==_/games/role-playing-nes-games-online/the-legend-of-zelda/play/
+ZELDA 2                     https://sparkyalloy1.herokuapp.com/web/_aHR0cHM6Ly9wbGF5Y2xhc3NpYy5nYW1lcw==_/games/role-playing-nes-games-online/zelda-ii-the-adventure-of-link/play/
+BASEBALL STARS              https://sparkyalloy1.herokuapp.com/web/_aHR0cHM6Ly9wbGF5Y2xhc3NpYy5nYW1lcw==_/games/sport-nes-games-online/baseball-stars/play/
+GRADIUS                     https://sparkyalloy1.herokuapp.com/web/_aHR0cHM6Ly9wbGF5Y2xhc3NpYy5nYW1lcw==_/games/scrolling-shooter-nes-games-online/gradius/play/
 ——————————————————————————————————————————————————————————————
 
 
