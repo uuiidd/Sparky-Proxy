@@ -3,6 +3,9 @@ Bookmarklets
 
 
 Hapara bypass
+
+Go to an empty space on your bookmarks bar, right click and select add page. Make the name whatever you want and paste this in as the url:
+
 javascript:((function(){var a,b,c;c="LINK GOES HERE",b=document.createElement("iframe"),b.setAttribute("src",c),b.setAttribute("id","rusic-modal"),b.setAttribute("style","position: fixed; width: 100%; height: 100%; top: 0; left: 0; right: 0; bottom: 0; z-index: 99999999999; background-color: #fff;"),a=document.getElementsByTagName("body")[0],a.appendChild(b)})).call(this)
 
 
