@@ -71,6 +71,7 @@ HOLY UNBLOCKER              http://sparkyholy.herokuapp.com
 HOLY UNBLOCKER              https://usjfenkask.herokuapp.com/?g
 ALTERNATE COOKIE CLICKER    https://ozh.github.io/cookieclicker/
 OSU                         https://osu-web.com/
+FLIGHT SIMULATOR            https://sparkyalloy1.herokuapp.com/web/_aHR0cHM6Ly9iZXRhLmdlby1mcy5jb20=_/geofs.php
 ——————————————————————————————————————————————————————————————
 
 
