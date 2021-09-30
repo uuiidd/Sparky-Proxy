@@ -1,0 +1,8 @@
+<iframe src="https://ozh.github.io/cookieclicker/" title="Cookie Clicker" width="1060" height="640"></iframe>
+
+<style>
+iframe {
+    margin: 0 auto;
+    display: block;
+}
+</style>
